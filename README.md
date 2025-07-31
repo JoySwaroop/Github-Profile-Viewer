@@ -18,6 +18,5 @@ This is a simple SwiftUI app that fetches and displays a user's GitHub profile i
 
 ## Demo
 
-![Github Profile Viewer Demo](https://via.placeholder.com/400x800.png?text=GitHub+Profile+Viewer+Demo)
 
 <img width="332" height="670" alt="Screenshot 2025-07-31 at 9 33 57 PM" src="https://github.com/user-attachments/assets/8992cadb-c651-4733-b6a7-0a86efc13041" />
